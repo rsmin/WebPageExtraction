@@ -1,0 +1,470 @@
+2017-09-15 21:41:09:    successed connection to DB
+2017-09-15 21:41:11:    Category extraction has complete
+2017-09-15 21:41:11:    cate num: 864
+2017-09-15 21:41:11:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 21:41:14:    Complete Page: 
+2017-09-15 21:41:14:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 21:41:14:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 21:41:22:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 21:41:23:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 21:42:44:    successed connection to DB
+2017-09-15 21:42:46:    Category extraction has complete
+2017-09-15 21:42:46:    cate num: 864
+2017-09-15 21:42:46:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 21:42:56:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 21:42:56:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 21:43:06:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 21:43:06:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 21:43:11:    Complete Page: 
+2017-09-15 21:43:11:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 21:43:11:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 21:43:17:    Complete Page: 
+2017-09-15 21:43:17:    Complete Category 1: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 21:43:17:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-15 21:43:27:    Complete Page: https://www.chemistwarehouse.com.au/Shop-OnLine/1761/Rimmel-Foundation?page=2
+2017-09-15 21:43:27:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-OnLine/1761/Rimmel-Foundation?page=2
+2017-09-15 21:43:37:    Complete Page: 
+2017-09-15 21:43:37:    Complete Category 2: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-15 21:43:37:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/186/Sedatives
+2017-09-15 21:43:38:    Complete Page: 
+2017-09-15 21:43:38:    Complete Category 3: https://www.chemistwarehouse.com.au/Shop-Online/186/Sedatives
+2017-09-15 21:43:38:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1562/Optislim-VLCD-Platinum-Shake
+2017-09-15 21:43:42:    Complete Page: 
+2017-09-15 21:43:42:    Complete Category 4: https://www.chemistwarehouse.com.au/Shop-Online/1562/Optislim-VLCD-Platinum-Shake
+2017-09-15 21:43:42:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2221/L-Oreal-Blush
+2017-09-15 21:43:45:    Complete Page: 
+2017-09-15 21:43:45:    Complete Category 5: https://www.chemistwarehouse.com.au/Shop-Online/2221/L-Oreal-Blush
+2017-09-15 21:43:45:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2519/Maybelline-Fit-Me-Matte-Poreless-Foundation
+2017-09-15 21:43:50:    Complete Page: 
+2017-09-15 21:43:50:    Complete Category 6: https://www.chemistwarehouse.com.au/Shop-Online/2519/Maybelline-Fit-Me-Matte-Poreless-Foundation
+2017-09-15 21:43:51:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish
+2017-09-15 21:44:01:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=2
+2017-09-15 21:44:01:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=2
+2017-09-15 21:44:11:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=3
+2017-09-15 21:44:11:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=3
+2017-09-15 21:44:21:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=4
+2017-09-15 21:44:21:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=4
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/80930/W7-Nail-Enamel-02-Red-Dazzle  error message:Permission denied: connect
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/81023/W7-Nail-Enamel-19-Baby-Pink  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/81023/W7-Nail-Enamel-19-Baby-Pink
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/80938/W7-Nail-Enamel-10-Shocking-Pink  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/80938/W7-Nail-Enamel-10-Shocking-Pink
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/80948/W7-Nail-Enamel-109-Rave  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/80948/W7-Nail-Enamel-109-Rave
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/81028/W7-Nail-Enamel-24-Neon-Green  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/81028/W7-Nail-Enamel-24-Neon-Green
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/80930/W7-Nail-Enamel-02-Red-Dazzle
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/81025/W7-Nail-Enamel-21-Neon-Yellow  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/81025/W7-Nail-Enamel-21-Neon-Yellow
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/80960/W7-Nail-Enamel-12-Fluorescent-Green  error message:Permission denied: connect
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/80937/W7-Nail-Enamel-09-Orange-Dazzle  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/80937/W7-Nail-Enamel-09-Orange-Dazzle
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/80960/W7-Nail-Enamel-12-Fluorescent-Green
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/81027/W7-Nail-Enamel-23-Neon-Pink  error message:Permission denied: connect
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/81030/W7-Nail-Enamel-26-Red-Devil  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/81030/W7-Nail-Enamel-26-Red-Devil
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/80934/W7-Nail-Enamel-06-Gold-Dazzle  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/80934/W7-Nail-Enamel-06-Gold-Dazzle
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/81027/W7-Nail-Enamel-23-Neon-Pink
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/81026/W7-Nail-Enamel-22-Neon-Blue  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/81026/W7-Nail-Enamel-22-Neon-Blue
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/80959/W7-Nail-Enamel-119-Starlight  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/80959/W7-Nail-Enamel-119-Starlight
+2017-09-15 21:44:21:    cannot load html: https://www.chemistwarehouse.com.au/buy/80950/W7-Nail-Enamel-110-Clubbing  error message:Permission denied: connect
+2017-09-15 21:44:21:    can't not open: https://www.chemistwarehouse.com.au/buy/80950/W7-Nail-Enamel-110-Clubbing
+2017-09-15 21:44:25:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=5
+2017-09-15 21:44:25:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=5
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80970/W7-Nail-Enamel-129-Space-Debris  error message:Permission denied: connect
+2017-09-15 21:44:25:    can't not open: https://www.chemistwarehouse.com.au/buy/80970/W7-Nail-Enamel-129-Space-Debris
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80968/W7-Nail-Enamel-127-Pink-Passion  error message:Permission denied: connect
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80978/W7-Nail-Enamel-136-Powder-Pink  error message:Permission denied: connect
+2017-09-15 21:44:25:    can't not open: https://www.chemistwarehouse.com.au/buy/80968/W7-Nail-Enamel-127-Pink-Passion
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80966/W7-Nail-Enamel-125-Red-Hot  error message:Permission denied: connect
+2017-09-15 21:44:25:    can't not open: https://www.chemistwarehouse.com.au/buy/80978/W7-Nail-Enamel-136-Powder-Pink
+2017-09-15 21:44:25:    can't not open: https://www.chemistwarehouse.com.au/buy/80966/W7-Nail-Enamel-125-Red-Hot
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80940/W7-Nail-Enamel-101-Intastella  error message:Permission denied: connect
+2017-09-15 21:44:25:    can't not open: https://www.chemistwarehouse.com.au/buy/80940/W7-Nail-Enamel-101-Intastella
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80962/W7-Nail-Enamel-121-Moonshine  error message:Permission denied: connect
+2017-09-15 21:44:25:    can't not open: https://www.chemistwarehouse.com.au/buy/80962/W7-Nail-Enamel-121-Moonshine
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80977/W7-Nail-Enamel-135-Mauve-Debris  error message:Permission denied: connect
+2017-09-15 21:44:25:    can't not open: https://www.chemistwarehouse.com.au/buy/80977/W7-Nail-Enamel-135-Mauve-Debris
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80981/W7-Nail-Enamel-14-Fluorescent-Pink  error message:Permission denied: connect
+2017-09-15 21:44:25:    can't not open: https://www.chemistwarehouse.com.au/buy/80981/W7-Nail-Enamel-14-Fluorescent-Pink
+2017-09-15 21:44:25:    cannot load html: https://www.chemistwarehouse.com.au/buy/80976/W7-Nail-Enamel-134-Multi-Debris  error message:Permission denied: connect
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80974/W7-Nail-Enamel-132-Sugar-Snap  error message:Permission denied: connect
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80974/W7-Nail-Enamel-132-Sugar-Snap
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80939/W7-Nail-Enamel-100-Yellow-Hammer  error message:Permission denied: connect
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80980/W7-Nail-Enamel-139-Nude  error message:Permission denied: connect
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80953/W7-Nail-Enamel-113-Party  error message:Permission denied: connect
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80976/W7-Nail-Enamel-134-Multi-Debris
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80961/W7-Nail-Enamel-120-Explosion  error message:Permission denied: connect
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80979/W7-Nail-Enamel-138-Bare  error message:Permission denied: connect
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80939/W7-Nail-Enamel-100-Yellow-Hammer
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80961/W7-Nail-Enamel-120-Explosion
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80953/W7-Nail-Enamel-113-Party
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80979/W7-Nail-Enamel-138-Bare
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80980/W7-Nail-Enamel-139-Nude
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80954/W7-Nail-Enamel-114-Shimmer-Nights  error message:Permission denied: connect
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80957/W7-Nail-Enamel-117-Twinkle-Toes  error message:Permission denied: connect
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80954/W7-Nail-Enamel-114-Shimmer-Nights
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80975/W7-Nail-Enamel-133-Blue-Debris  error message:Permission denied: connect
+2017-09-15 21:44:26:    cannot load html: https://www.chemistwarehouse.com.au/buy/80963/W7-Nail-Enamel-122-New-York  error message:Permission denied: connect
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80963/W7-Nail-Enamel-122-New-York
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80957/W7-Nail-Enamel-117-Twinkle-Toes
+2017-09-15 21:44:26:    can't not open: https://www.chemistwarehouse.com.au/buy/80975/W7-Nail-Enamel-133-Blue-Debris
+2017-09-15 21:44:27:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=6
+2017-09-15 21:44:28:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=6
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81011/W7-Nail-Enamel-170-Watermelon-Jelly-Bean  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81011/W7-Nail-Enamel-170-Watermelon-Jelly-Bean
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81062/W7-Nail-Enamel-60-First-Class  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81062/W7-Nail-Enamel-60-First-Class
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81096/W7-Nail-Enamel-97-Sand-Castle  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81096/W7-Nail-Enamel-97-Sand-Castle
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81012/W7-Nail-Enamel-169-Orange-Crush-Jelly-Bean  error message:Permission denied: connect
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81098/W7-Nail-Enamel-Be-A-Star-Bling-Nights-Set  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81098/W7-Nail-Enamel-Be-A-Star-Bling-Nights-Set
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81012/W7-Nail-Enamel-169-Orange-Crush-Jelly-Bean
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81056/W7-Nail-Enamel-53-Princess  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81056/W7-Nail-Enamel-53-Princess
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/80973/W7-Nail-Enamel-131-Bronze-Debris  error message:Permission denied: connect
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81003/W7-Nail-Enamel-166-Lilac  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81003/W7-Nail-Enamel-166-Lilac
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81005/W7-Nail-Enamel-167-Wild-Blackberry-Jelly-Bean  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81005/W7-Nail-Enamel-167-Wild-Blackberry-Jelly-Bean
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/80988/W7-Nail-Enamel-146-Pink-Feathers  error message:Permission denied: connect
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/80972/W7-Nail-Enamel-130-Cafe-Au-Lait  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/80972/W7-Nail-Enamel-130-Cafe-Au-Lait
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/80988/W7-Nail-Enamel-146-Pink-Feathers
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81007/W7-Nail-Enamel-168-Sunkist-Tangerine-Jelly-Bean  error message:Permission denied: connect
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81000/W7-Nail-Enamel-163-Coral-Bay  error message:Permission denied: connect
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81002/W7-Nail-Enamel-165-Chocolate-Pudding-Jelly-Bean  error message:Permission denied: connect
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81031/W7-Nail-Enamel-27-Crimson  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/80973/W7-Nail-Enamel-131-Bronze-Debris
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81066/W7-Nail-Enamel-64-Sheer-Lemon  error message:Permission denied: connect
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81065/W7-Nail-Enamel-63-Sheer-Mauve  error message:Permission denied: connect
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/81057/W7-Nail-Enamel-55-Matt-Black  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81007/W7-Nail-Enamel-168-Sunkist-Tangerine-Jelly-Bean
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81002/W7-Nail-Enamel-165-Chocolate-Pudding-Jelly-Bean
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81031/W7-Nail-Enamel-27-Crimson
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81066/W7-Nail-Enamel-64-Sheer-Lemon
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81000/W7-Nail-Enamel-163-Coral-Bay
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81057/W7-Nail-Enamel-55-Matt-Black
+2017-09-15 21:44:28:    cannot load html: https://www.chemistwarehouse.com.au/buy/80936/W7-Nail-Enamel-08-Green-Dazzle  error message:Permission denied: connect
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/81065/W7-Nail-Enamel-63-Sheer-Mauve
+2017-09-15 21:44:28:    can't not open: https://www.chemistwarehouse.com.au/buy/80936/W7-Nail-Enamel-08-Green-Dazzle
+2017-09-15 21:44:30:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=7
+2017-09-15 21:44:30:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish?page=7
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81034/W7-Nail-Enamel-30-Lazy-Lime  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81034/W7-Nail-Enamel-30-Lazy-Lime
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81037/W7-Nail-Enamel-32-Navy  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81037/W7-Nail-Enamel-32-Navy
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81083/W7-Nail-Enamel-84-Orange-Flame  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81083/W7-Nail-Enamel-84-Orange-Flame
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81108/W7-Total-Wipeout-Nail-Polish-Remover  error message:Permission denied: connect
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81060/W7-Nail-Enamel-58-Heads-Up  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81108/W7-Total-Wipeout-Nail-Polish-Remover
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81077/W7-Nail-Enamel-75-Cosmic-Black  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81077/W7-Nail-Enamel-75-Cosmic-Black
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81060/W7-Nail-Enamel-58-Heads-Up
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81078/W7-Nail-Enamel-76-Its-Pink  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81078/W7-Nail-Enamel-76-Its-Pink
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81059/W7-Nail-Enamel-57-Polar-Bear  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81059/W7-Nail-Enamel-57-Polar-Bear
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81080/W7-Nail-Enamel-78-Fuchsia  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81080/W7-Nail-Enamel-78-Fuchsia
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81049/W7-Nail-Enamel-46-Coral  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81049/W7-Nail-Enamel-46-Coral
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81042/W7-Nail-Enamel-36-Purple-Paradise  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81042/W7-Nail-Enamel-36-Purple-Paradise
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81079/W7-Nail-Enamel-77-Neon-Purple  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81079/W7-Nail-Enamel-77-Neon-Purple
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/81051/W7-Nail-Enamel-48-Pink-Shimmer  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/81051/W7-Nail-Enamel-48-Pink-Shimmer
+2017-09-15 21:44:30:    cannot load html: https://www.chemistwarehouse.com.au/buy/83975/W7-Nail-Enamel-Matte-Beige  error message:Permission denied: connect
+2017-09-15 21:44:30:    can't not open: https://www.chemistwarehouse.com.au/buy/83975/W7-Nail-Enamel-Matte-Beige
+2017-09-15 21:44:32:    Complete Page: 
+2017-09-15 21:44:32:    Complete Category 7: https://www.chemistwarehouse.com.au/Shop-Online/2473/W7-Nail-Polish
+2017-09-15 21:44:32:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1600/L-Oreal-Paris-Age-Perfect
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/42646/L-39-Oreal-Paris-Age-Perfect-Night-50ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/55473/L-39-Oreal-Paris-Age-Perfect-Toner-200ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/66038/L-39-Oreal-Paris-Age-Perfect-Intense-Nutrition-Serum-30ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/42646/L-39-Oreal-Paris-Age-Perfect-Night-50ml
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/55473/L-39-Oreal-Paris-Age-Perfect-Toner-200ml
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/69619/L-39-Oreal-Paris-Age-Perfect-Cell-Renewal-Night-Cream-50ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/66038/L-39-Oreal-Paris-Age-Perfect-Intense-Nutrition-Serum-30ml
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/80643/L-39-Oreal-Paris-Golden-Age-Re-Densifying-Night-Cream-50ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/50460/L-39-Oreal-Paris-Age-Perfect-Cleansing-Wipes-25-Pack  error message:Permission denied: connect
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/80643/L-39-Oreal-Paris-Golden-Age-Re-Densifying-Night-Cream-50ml
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/55471/L-39-Oreal-Paris-Age-Perfect-Cleansing-Milk-200ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/55471/L-39-Oreal-Paris-Age-Perfect-Cleansing-Milk-200ml
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/69619/L-39-Oreal-Paris-Age-Perfect-Cell-Renewal-Night-Cream-50ml
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/69618/L-39-Oreal-Paris-Age-Perfect-Cell-Renewal-Day-Cream-50ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/69618/L-39-Oreal-Paris-Age-Perfect-Cell-Renewal-Day-Cream-50ml
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/50460/L-39-Oreal-Paris-Age-Perfect-Cleansing-Wipes-25-Pack
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/69620/L-39-Oreal-Paris-Age-Perfect-Cell-Renewal-Serum-30ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/64326/L-39-Oreal-Paris-Age-Perfect-Intense-Nutrition-Day-50ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/64164/L-39-Oreal-Paris-Age-Perfect-Day-50ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    cannot load html: https://www.chemistwarehouse.com.au/buy/64329/L-39-Oreal-Paris-Age-Perfect-Intense-Nutrition-Night-50ml  error message:Permission denied: connect
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/64329/L-39-Oreal-Paris-Age-Perfect-Intense-Nutrition-Night-50ml
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/69620/L-39-Oreal-Paris-Age-Perfect-Cell-Renewal-Serum-30ml
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/64164/L-39-Oreal-Paris-Age-Perfect-Day-50ml
+2017-09-15 21:44:32:    can't not open: https://www.chemistwarehouse.com.au/buy/64326/L-39-Oreal-Paris-Age-Perfect-Intense-Nutrition-Day-50ml
+2017-09-15 21:44:35:    Complete Page: 
+2017-09-15 21:44:35:    Complete Category 8: https://www.chemistwarehouse.com.au/Shop-Online/1600/L-Oreal-Paris-Age-Perfect
+2017-09-15 21:44:35:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1567/Optislim-Life-Soups
+2017-09-15 21:44:35:    cannot load html: https://www.chemistwarehouse.com.au/buy/64731/OptiSlim-Life-Soup-Tomato-50g-Sachet  error message:Permission denied: connect
+2017-09-15 21:44:35:    can't not open: https://www.chemistwarehouse.com.au/buy/64731/OptiSlim-Life-Soup-Tomato-50g-Sachet
+2017-09-15 21:44:37:    Complete Page: 
+2017-09-15 21:44:37:    Complete Category 9: https://www.chemistwarehouse.com.au/Shop-Online/1567/Optislim-Life-Soups
+2017-09-15 21:44:37:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1916/Blackmores-Lyprinol
+2017-09-15 21:44:38:    Complete Page: 
+2017-09-15 21:44:38:    Complete Category 10: https://www.chemistwarehouse.com.au/Shop-Online/1916/Blackmores-Lyprinol
+2017-09-15 21:44:39:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2538/Maybelline-Fitme-Concealer
+2017-09-15 21:44:39:    cannot load html: https://www.chemistwarehouse.com.au/buy/68279/Maybelline-Fit-Me-Concealer-Medium  error message:Permission denied: connect
+2017-09-15 21:44:39:    can't not open: https://www.chemistwarehouse.com.au/buy/68279/Maybelline-Fit-Me-Concealer-Medium
+2017-09-15 21:44:39:    cannot load html: https://www.chemistwarehouse.com.au/buy/82976/Maybelline-Fit-Me-Foundation-Stick-Ivory  error message:Permission denied: connect
+2017-09-15 21:44:39:    cannot load html: https://www.chemistwarehouse.com.au/buy/68275/Maybelline-Fit-Me-Concealer-Cafe  error message:Permission denied: connect
+2017-09-15 21:44:39:    can't not open: https://www.chemistwarehouse.com.au/buy/82976/Maybelline-Fit-Me-Foundation-Stick-Ivory
+2017-09-15 21:44:39:    can't not open: https://www.chemistwarehouse.com.au/buy/68275/Maybelline-Fit-Me-Concealer-Cafe
+2017-09-15 21:44:39:    cannot load html: https://www.chemistwarehouse.com.au/buy/82978/Maybelline-Fit-Me-Foundation-Stick-Natural-Beige  error message:Permission denied: connect
+2017-09-15 21:44:39:    can't not open: https://www.chemistwarehouse.com.au/buy/82978/Maybelline-Fit-Me-Foundation-Stick-Natural-Beige
+2017-09-15 21:44:41:    Complete Page: 
+2017-09-15 21:44:41:    Complete Category 11: https://www.chemistwarehouse.com.au/Shop-Online/2538/Maybelline-Fitme-Concealer
+2017-09-15 21:44:41:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2376/La-Roche-Posay-Sensitive-and-Reactive-Skin
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/78841/La-Roche-Posay-Thermal-Spring-Water-300ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/78841/La-Roche-Posay-Thermal-Spring-Water-300ml
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/78847/La-Roche-Posay-Toleriane-Ultra-40ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/78847/La-Roche-Posay-Toleriane-Ultra-40ml
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/78855/La-Roche-Posay-Micellar-Water-Ultra-for-Sensitive-Skin-200ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/78855/La-Roche-Posay-Micellar-Water-Ultra-for-Sensitive-Skin-200ml
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/78856/La-Roche-Posay-Physiological-Micellar-Foaming-Water-150ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/78856/La-Roche-Posay-Physiological-Micellar-Foaming-Water-150ml
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/82573/La-Roche-Posay-Micellar-Water-Ultra-for-Reactive-Skin-200ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/82573/La-Roche-Posay-Micellar-Water-Ultra-for-Reactive-Skin-200ml
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/78848/La-Roche-Posay-Toleriane-Ultra-Eye-Contour-Cream-20ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/78848/La-Roche-Posay-Toleriane-Ultra-Eye-Contour-Cream-20ml
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/78844/La-Roche-Posay-Toleriane-Riche-Soothing-And-Protective-Cream-40ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/78846/La-Roche-Posay-Toleriane-Soothing-And-Protective-Cream-40ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/78846/La-Roche-Posay-Toleriane-Soothing-And-Protective-Cream-40ml
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/78844/La-Roche-Posay-Toleriane-Riche-Soothing-And-Protective-Cream-40ml
+2017-09-15 21:44:41:    cannot load html: https://www.chemistwarehouse.com.au/buy/78845/La-Roche-Posay-Toleriane-Foaming-Gel-150ml  error message:Permission denied: connect
+2017-09-15 21:44:41:    can't not open: https://www.chemistwarehouse.com.au/buy/78845/La-Roche-Posay-Toleriane-Foaming-Gel-150ml
+2017-09-15 21:44:43:    Complete Page: 
+2017-09-15 21:44:43:    Complete Category 12: https://www.chemistwarehouse.com.au/Shop-Online/2376/La-Roche-Posay-Sensitive-and-Reactive-Skin
+2017-09-15 21:44:43:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2646/Amazonia-RAW
+2017-09-15 21:44:43:    cannot load html: https://www.chemistwarehouse.com.au/buy/82436/Amazonia-RAW-Slim-amp-Tone-Protein-Vanilla-amp-Cinnamon-1kg  error message:Permission denied: connect
+2017-09-15 21:44:43:    can't not open: https://www.chemistwarehouse.com.au/buy/82436/Amazonia-RAW-Slim-amp-Tone-Protein-Vanilla-amp-Cinnamon-1kg
+2017-09-15 21:44:43:    cannot load html: https://www.chemistwarehouse.com.au/buy/82431/Amazonia-RAW-Protein-Isolate-Vanilla-1kg  error message:Permission denied: connect
+2017-09-15 21:44:43:    can't not open: https://www.chemistwarehouse.com.au/buy/82431/Amazonia-RAW-Protein-Isolate-Vanilla-1kg
+2017-09-15 21:44:43:    cannot load html: https://www.chemistwarehouse.com.au/buy/82437/Amazonia-RAW-Workout-120g  error message:Permission denied: connect
+2017-09-15 21:44:43:    cannot load html: https://www.chemistwarehouse.com.au/buy/82434/Amazonia-RAW-Slim-amp-Tone-Protein-Cacao-amp-Macadamia-1kg  error message:Permission denied: connect
+2017-09-15 21:44:43:    can't not open: https://www.chemistwarehouse.com.au/buy/82437/Amazonia-RAW-Workout-120g
+2017-09-15 21:44:43:    can't not open: https://www.chemistwarehouse.com.au/buy/82434/Amazonia-RAW-Slim-amp-Tone-Protein-Cacao-amp-Macadamia-1kg
+2017-09-15 21:44:43:    cannot load html: https://www.chemistwarehouse.com.au/buy/82428/Amazonia-RAW-Fermented-Paleo-Protein-Vanilla-amp-Lucuma-1kg  error message:Permission denied: connect
+2017-09-15 21:44:43:    can't not open: https://www.chemistwarehouse.com.au/buy/82428/Amazonia-RAW-Fermented-Paleo-Protein-Vanilla-amp-Lucuma-1kg
+2017-09-15 21:44:45:    Complete Page: 
+2017-09-15 21:44:45:    Complete Category 13: https://www.chemistwarehouse.com.au/Shop-Online/2646/Amazonia-RAW
+2017-09-15 21:44:46:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2804/Revlon-Youth-FX
+2017-09-15 21:44:51:    Complete Page: 
+2017-09-15 21:44:51:    Complete Category 14: https://www.chemistwarehouse.com.au/Shop-Online/2804/Revlon-Youth-FX
+2017-09-15 21:44:52:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1899/DermaVeen-Eczema
+2017-09-15 21:44:52:    Complete Page: 
+2017-09-15 21:44:52:    Complete Category 15: https://www.chemistwarehouse.com.au/Shop-Online/1899/DermaVeen-Eczema
+2017-09-15 21:44:53:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1238/Alka-Seltzer
+2017-09-15 21:44:54:    Complete Page: 
+2017-09-15 21:44:54:    Complete Category 16: https://www.chemistwarehouse.com.au/Shop-Online/1238/Alka-Seltzer
+2017-09-15 21:44:54:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1963/Sally-Hansen-Miracle-Gel
+2017-09-15 21:45:03:    Complete Page: https://www.chemistwarehouse.com.au/Shop-OnLine/1963/sally-hansen-miracle-gel?page=2
+2017-09-15 21:45:04:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-OnLine/1963/sally-hansen-miracle-gel?page=2
+2017-09-15 21:45:11:    Complete Page: 
+2017-09-15 21:45:11:    Complete Category 17: https://www.chemistwarehouse.com.au/Shop-Online/1963/Sally-Hansen-Miracle-Gel
+2017-09-15 21:45:11:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics
+2017-09-15 21:45:21:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=2
+2017-09-15 21:45:21:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=2
+2017-09-15 21:45:31:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=3
+2017-09-15 21:45:32:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=3
+2017-09-15 21:45:42:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=4
+2017-09-15 21:45:42:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=4
+2017-09-15 21:45:52:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=5
+2017-09-15 21:45:52:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=5
+2017-09-15 21:46:02:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=6
+2017-09-15 21:46:02:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=6
+2017-09-15 21:46:12:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=7
+2017-09-15 21:46:12:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=7
+2017-09-15 21:46:23:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=8
+2017-09-15 21:46:23:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=8
+2017-09-15 21:46:33:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=9
+2017-09-15 21:46:34:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=9
+2017-09-15 21:46:43:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=10
+2017-09-15 21:46:44:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=10
+2017-09-15 21:46:54:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=11
+2017-09-15 21:46:54:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=11
+2017-09-15 21:47:04:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=12
+2017-09-15 21:47:04:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=12
+2017-09-15 21:47:14:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=13
+2017-09-15 21:47:14:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=13
+2017-09-15 21:47:25:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=14
+2017-09-15 21:47:25:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=14
+2017-09-15 21:50:50:    successed connection to DB
+2017-09-15 21:50:52:    Category extraction has complete
+2017-09-15 21:50:52:    cate num: 864
+2017-09-15 21:50:52:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics
+2017-09-15 21:51:01:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=2
+2017-09-15 21:51:02:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=2
+2017-09-15 21:51:12:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=3
+2017-09-15 21:51:12:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=3
+2017-09-15 21:51:22:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=4
+2017-09-15 21:51:23:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=4
+2017-09-15 21:51:32:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=5
+2017-09-15 21:51:32:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=5
+2017-09-15 21:51:41:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=6
+2017-09-15 21:51:41:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=6
+2017-09-15 21:51:50:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=7
+2017-09-15 21:51:50:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=7
+2017-09-15 21:51:59:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=8
+2017-09-15 21:51:59:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=8
+2017-09-15 21:52:08:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=9
+2017-09-15 21:52:08:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=9
+2017-09-15 21:52:18:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=10
+2017-09-15 21:52:18:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=10
+2017-09-15 21:52:28:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=11
+2017-09-15 21:52:28:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=11
+2017-09-15 21:52:38:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=12
+2017-09-15 21:52:39:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=12
+2017-09-15 21:53:30:    successed connection to DB
+2017-09-15 21:53:32:    Category extraction has complete
+2017-09-15 21:53:32:    cate num: 864
+2017-09-15 21:53:32:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics
+2017-09-15 21:53:43:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=2
+2017-09-15 21:53:46:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=2
+2017-09-15 21:53:56:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=3
+2017-09-15 21:53:59:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=3
+2017-09-15 21:54:08:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=4
+2017-09-15 21:54:12:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=4
+2017-09-15 21:54:22:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=5
+2017-09-15 21:54:25:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=5
+2017-09-15 21:54:34:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=6
+2017-09-15 21:54:38:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=6
+2017-09-15 21:54:47:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=7
+2017-09-15 21:54:51:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=7
+2017-09-15 21:55:00:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=8
+2017-09-15 21:55:03:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/772/Revlon-Cosmetics?page=8
+2017-09-15 22:05:46:    successed connection to DB
+2017-09-15 22:05:48:    Category extraction has complete
+2017-09-15 22:05:48:    cate num: 864
+2017-09-15 22:05:48:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 22:05:51:    Complete Page: 
+2017-09-15 22:05:54:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 22:05:54:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 22:06:04:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 22:06:07:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 22:06:17:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 22:06:20:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 22:06:25:    Complete Page: 
+2017-09-15 22:08:30:    successed connection to DB
+2017-09-15 22:08:31:    Category extraction has complete
+2017-09-15 22:08:31:    cate num: 864
+2017-09-15 22:08:31:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 22:08:34:    Complete Page: 
+2017-09-15 22:08:37:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 22:08:37:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 22:08:47:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 22:08:50:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 22:09:00:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 22:09:03:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 22:09:08:    Complete Page: 
+2017-09-15 22:09:11:    Complete Category 1: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 22:09:11:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 22:09:16:    Complete Page: 
+2017-09-15 22:09:25:    successed connection to DB
+2017-09-15 22:09:27:    Category extraction has complete
+2017-09-15 22:09:27:    cate num: 864
+2017-09-15 22:09:27:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 22:09:27:    Complete Page: 
+2017-09-15 22:09:30:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 22:09:30:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 22:09:30:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 22:09:33:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 22:09:33:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 22:09:36:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 22:09:36:    Complete Page: 
+2017-09-15 22:09:39:    Complete Category 1: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 22:09:40:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 22:09:40:    Complete Page: 
+2017-09-15 22:09:43:    Complete Category 2: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 22:09:43:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-15 22:09:52:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-15 22:09:55:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-15 22:10:04:    Complete Page: 
+2017-09-15 22:10:07:    Complete Category 3: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-15 22:10:07:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/186/Sedatives
+2017-09-15 22:10:08:    Complete Page: 
+2017-09-15 22:10:11:    Complete Category 4: https://www.chemistwarehouse.com.au/Shop-Online/186/Sedatives
+2017-09-15 22:10:11:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1562/Optislim-VLCD-Platinum-Shake
+2017-09-15 22:15:26:    successed connection to DB
+2017-09-15 22:15:28:    Category extraction has complete
+2017-09-15 22:15:28:    cate num: 864
+2017-09-15 22:15:28:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 22:15:28:    Complete Page: 
+2017-09-15 22:15:31:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 22:15:31:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 22:15:31:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 22:15:35:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 22:15:35:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 22:15:38:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 22:15:38:    Complete Page: 
+2017-09-15 22:15:41:    Complete Category 1: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 22:15:41:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 22:15:41:    Complete Page: 
+2017-09-15 22:15:44:    Complete Category 2: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 22:15:44:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-15 22:15:44:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-15 23:09:36:    successed connection to DB
+2017-09-15 23:09:40:    Category extraction has complete
+2017-09-15 23:09:40:    cate num: 864
+2017-09-15 23:09:40:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 23:09:40:    Complete Page: 
+2017-09-15 23:09:43:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 23:09:44:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 23:09:44:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 23:09:47:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 23:09:47:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 23:09:50:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 23:09:50:    Complete Page: 
+2017-09-15 23:09:53:    Complete Category 1: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 23:09:53:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 23:09:54:    Complete Page: 
+2017-09-15 23:09:57:    Complete Category 2: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 23:09:57:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-15 23:09:57:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-15 23:10:00:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-15 23:10:00:    Complete Page: 
+2017-09-15 23:10:03:    Complete Category 3: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-15 23:10:03:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/186/Sedatives
+2017-09-15 23:10:03:    Complete Page: 
+2017-09-15 23:10:06:    Complete Category 4: https://www.chemistwarehouse.com.au/Shop-Online/186/Sedatives
+2017-09-15 23:10:06:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1562/Optislim-VLCD-Platinum-Shake
+2017-09-15 23:10:06:    Complete Page: 
+2017-09-15 23:10:09:    Complete Category 5: https://www.chemistwarehouse.com.au/Shop-Online/1562/Optislim-VLCD-Platinum-Shake
+2017-09-15 23:10:09:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2221/L-Oreal-Blush
+2017-09-15 23:10:14:    Complete Page: 
+2017-09-15 23:10:56:    successed connection to DB
+2017-09-15 23:10:59:    Category extraction has complete
+2017-09-15 23:10:59:    cate num: 864
+2017-09-15 23:11:00:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 23:11:00:    Complete Page: 
+2017-09-15 23:11:03:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-15 23:11:03:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 23:11:04:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 23:11:07:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-15 23:11:07:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 23:11:10:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-15 23:11:10:    Complete Page: 
+2017-09-15 23:11:13:    Complete Category 1: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-15 23:11:14:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 23:11:14:    Complete Page: 
+2017-09-15 23:11:17:    Complete Category 2: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-15 23:11:17:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-15 23:11:17:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-15 23:11:20:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-15 23:11:20:    Complete Page: 

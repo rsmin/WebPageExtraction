@@ -1,0 +1,12 @@
+2017-09-17 22:28:06:    successed connection to DB
+2017-09-17 22:28:08:    Category extraction has complete
+2017-09-17 22:28:08:    cate num: 864
+2017-09-17 22:28:08:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-17 22:28:08:    Complete Page: 
+2017-09-17 22:28:11:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-17 22:28:11:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-17 22:28:11:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-17 22:28:15:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-17 22:28:15:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-17 22:28:18:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-17 22:28:18:    Complete Page: 

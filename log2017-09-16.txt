@@ -1,0 +1,35 @@
+2017-09-16 10:33:30:    successed connection to DB
+2017-09-16 10:33:32:    Category extraction has complete
+2017-09-16 10:33:32:    cate num: 877
+2017-09-16 10:33:32:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-16 10:33:32:    Complete Page: 
+2017-09-16 10:33:35:    Complete Category 0: https://www.chemistwarehouse.com.au/Shop-Online/1935/Nature-s-Way-Restore-Probiotics
+2017-09-16 10:33:35:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-16 10:33:35:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-16 10:33:38:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=2
+2017-09-16 10:33:38:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-16 10:33:41:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal?page=3
+2017-09-16 10:33:41:    Complete Page: 
+2017-09-16 10:33:45:    Complete Category 1: https://www.chemistwarehouse.com.au/Shop-Online/232/Hair-Removal
+2017-09-16 10:33:45:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-16 10:33:45:    Complete Page: 
+2017-09-16 10:33:48:    Complete Category 2: https://www.chemistwarehouse.com.au/Shop-Online/2251/L-Oreal-Infallible-Le-Rouge
+2017-09-16 10:33:48:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-16 10:33:48:    Complete Page: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-16 10:33:51:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation?page=2
+2017-09-16 10:33:51:    Complete Page: 
+2017-09-16 10:33:54:    Complete Category 3: https://www.chemistwarehouse.com.au/Shop-Online/1761/Rimmel-Foundation
+2017-09-16 10:33:54:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/186/Sedatives
+2017-09-16 10:33:54:    Complete Page: 
+2017-09-16 10:33:57:    Complete Category 4: https://www.chemistwarehouse.com.au/Shop-Online/186/Sedatives
+2017-09-16 10:33:58:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/1562/Optislim-VLCD-Platinum-Shake
+2017-09-16 10:33:58:    Complete Page: 
+2017-09-16 10:34:01:    Complete Category 5: https://www.chemistwarehouse.com.au/Shop-Online/1562/Optislim-VLCD-Platinum-Shake
+2017-09-16 10:34:01:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2221/L-Oreal-Blush
+2017-09-16 10:34:01:    Complete Page: 
+2017-09-16 10:34:04:    Complete Category 6: https://www.chemistwarehouse.com.au/Shop-Online/2221/L-Oreal-Blush
+2017-09-16 10:34:04:    ProductsURLInOnePage Extraction done: https://www.chemistwarehouse.com.au/Shop-Online/2519/Maybelline-Fit-Me-Matte-Poreless-Foundation
+2017-09-16 10:34:27:    successed connection to DB
+2017-09-16 14:53:20:    successed connection to DB
+2017-09-16 15:00:12:    successed connection to DB
+2017-09-16 15:01:43:    successed connection to DB
